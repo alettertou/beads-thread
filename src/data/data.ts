@@ -65,7 +65,86 @@ export const data: IData[] = [
       },
     ],
   },
-
+  {
+    id: '2',
+    title: 'Làm vòng tay thắt con rít độc đáo',
+    image: require('../../assets/img/vong-tay-that-con-rit.jpg'),
+    rating: 3,
+    description: 'Làm chiếc vòng đẹp tặng người thân nhé!',
+    requirement: [
+      ' Dây vải thun cứng',
+      'Cây kéo',
+    ],
+    instruction: [
+      {
+        title:
+          'Bạn cắt một đoạn dây bằng cổ tay rồi thắt nút lại. Tiếp theo bạn cắt một đoạn dây dài nữa và để ngang so với đoạn dây đã thắt.',
+        image: require('../../assets/img/step1.png'),
+      },
+      {
+        title:
+          'Sau khi để ngang lại thì bạn dùng đầu sợi dây bên phải luồn sang phía dưới rồi thắt chặt. Làm tương tự với bên còn lại.',
+        image: require('../../assets/img/step2.png'),
+      },
+      {
+        title: 'Bạn làm cho tới khi hết sợi dây và thắt nút cố định.',
+        image: require('../../assets/img/step3.png'),
+      },
+      {
+        title:
+          'Sau khi thắt xong phần dây thun, bạn có thể gắn thêm mặt đá hoặc mặt kim loại để chiếc vòng tay handmade thêm độc đáo.',
+        image: require('../../assets/img/step4.png'),
+      },
+    ],
+  },
+  {
+    id: '3',
+    title: 'CÁCH LÀM VÒNG TAY TÌNH BẠN',
+    image: require('assets/img/download.jpg'),
+    rating: 4,
+    description: 'Tự tay làm nên những chiếc vòng xinh xắn để kỉ niệm bạn bè nhé!',
+    requirement: [
+      'sợi chỉ thêu với màu sắc khác nhau',
+      'Cây kéo',
+    ],
+    instruction: [
+      {
+        title:
+          'Đo và cắt sợi chỉ đầu tiên',
+        image: require('assets/img/Ảnh chụp màn hình 2024-09-19 120302.png'),
+      },
+      {
+        title:
+          'Dùng sợi chỉ đầu tiên để đo các sợi chỉ còn lại vì bạn cần tạo ra vòng tay đẹp và đều',
+        image: require('assets/img/vtttb/Ảnh chụp màn hình 2024-09-19 121103.png'),
+      },
+      {
+        title: 'Đưa sợi chỉ đầu tiên qua sợi chỉ thứ hai để thắt nút',
+        image: require('assets/img/vtttb/Ảnh chụp màn hình 2024-09-19 121131.png'),
+      },
+      {
+        title:
+          'Tạo thêm một nút thắt tương tự với hai sợi chỉ đó',
+        image: require('assets/img/vtttb/Ảnh chụp màn hình 2024-09-19 121150.png'),
+      },
+      {
+        title: 'Thực hiện lại thao tác thêm một lần nữa với sợi chỉ ngoài cùng bên trái.',
+        image: require('assets/img/vtttb/Ảnh chụp màn hình 2024-09-19 121209.png'),
+      },
+      {
+        title: 'Tiếp tục đến khi vòng tay đủ dài và vừa vặn với cổ tay.Cột đầu còn lại của vòng tay thành nút thắt ',
+        image: require('assets/img/vtttb/Ảnh chụp màn hình 2024-09-19 121225.png'),
+      },
+      {
+        title: 'Cắt phần chỉ còn thừa',
+        image: require('assets/img/vtttb/Ảnh chụp màn hình 2024-09-19 121237.png'),
+      },
+      {
+        title:'Cột vòng tay',
+        image: require('assets/img/vtttb/Ảnh chụp màn hình 2024-09-19 121249.png'),
+      },
+    ],
+  },
 ]
 
 export interface INew {
