@@ -1,12 +1,16 @@
-# Bead Threads - Personal Finance Management App
+# Bead Threads - Handmade Bracelets Tutorials Application
 
 ## Description:
 Bead Threads is a mobile application that provides tutorials on how to make various types of bracelets. Our aim is to make it easier for people to make their own bracelets. 
 
 Bead Threads works well on both iOS and Android devices.
 
-**Feature
-- 
+## Features
+
+- **Tutorials for All Levels**: Learn to make bracelets, ranging from easy to advanced designs.
+- **Favorites Section**: Save your favorite bracelet tutorials for quick access.
+- **Helpful Tips**: Get valuable information and tips to support beginners in handmade bracelet making.
+- **Community Connection**: Connect with a community of bracelet makers to share ideas and creations.
 
 ## Technologies Used:
 * [React Native:](https://reactnative.dev/) A framework that supports building cross-platform mobile applications.
@@ -28,4 +32,4 @@ Bead Threads works well on both iOS and Android devices.
 </div>
 
 ## Demo
-[Link Drive] (https://drive.google.com/file/d/139bJ9QKFViCkZY2mPXCKOp94u7sqldTp/view?usp=sharing)
+[Link Drive](https://drive.google.com/file/d/139bJ9QKFViCkZY2mPXCKOp94u7sqldTp/view?usp=sharing)
